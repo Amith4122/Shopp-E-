@@ -71,8 +71,5 @@ The backend API provides the following routes:
 
 
 
-## License
-
-This project is licensed under the MIT License.
 
 
